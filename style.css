@@ -1,0 +1,30 @@
+/* this is class selector */
+.color-title {
+    font-weight: normal;
+}
+/* this is element selector */
+img {
+    height: 200px;
+    width: 200px;
+}
+/* this is id selector */
+#red {
+    color: red
+}
+/* this is id selector */
+#blue {
+    color: blue
+}
+/* this is id selector */
+#orange {
+    color: orange
+}
+/* this is id selector */
+#green {
+    color: green
+}
+/* this is id selector */
+#yellow {
+    color: yellow
+}
+
